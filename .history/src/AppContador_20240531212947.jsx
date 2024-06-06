@@ -1,0 +1,2 @@
+
+const AppContador = () 0> {}

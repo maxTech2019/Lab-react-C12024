@@ -1,0 +1,6 @@
+
+const Contador = () => {
+    return (
+        <b
+    );
+}
